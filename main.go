@@ -2,6 +2,7 @@ package main
 
 import (
 	"github.com/danya1off/library/models"
+	"github.com/danya1off/library/services"
 	"github.com/danya1off/library/utils"
 	"log"
 )
@@ -10,5 +11,6 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	utils.SetupHTTP(db)
+	services.InitDB(db)
+	utils.SetupHTTP()
 }
