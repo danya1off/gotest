@@ -19,6 +19,7 @@
     <option name="indexEntireGoPath" value="false" />
   </component>
   <component name="ProjectId" id="1UZihZ7VDBmNxs493KKmbWeV831" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -78,22 +79,22 @@
       <screen x="33" y="23" width="1647" height="1027" />
     </state>
     <state x="320" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/33.23.1647.1027@33.23.1647.1027" timestamp="1575570841979" />
-    <state width="1358" height="267" key="GridCell.Tab.0.bottom" timestamp="1575573642608">
+    <state width="1605" height="280" key="GridCell.Tab.0.bottom" timestamp="1575578392787">
       <screen x="33" y="23" width="1647" height="1027" />
     </state>
-    <state width="1358" height="267" key="GridCell.Tab.0.bottom/33.23.1647.1027@33.23.1647.1027" timestamp="1575573642608" />
-    <state width="1358" height="267" key="GridCell.Tab.0.center" timestamp="1575573642607">
+    <state width="1605" height="280" key="GridCell.Tab.0.bottom/33.23.1647.1027@33.23.1647.1027" timestamp="1575578392787" />
+    <state width="1605" height="280" key="GridCell.Tab.0.center" timestamp="1575578392786">
       <screen x="33" y="23" width="1647" height="1027" />
     </state>
-    <state width="1358" height="267" key="GridCell.Tab.0.center/33.23.1647.1027@33.23.1647.1027" timestamp="1575573642607" />
-    <state width="1358" height="267" key="GridCell.Tab.0.left" timestamp="1575573642607">
+    <state width="1605" height="280" key="GridCell.Tab.0.center/33.23.1647.1027@33.23.1647.1027" timestamp="1575578392786" />
+    <state width="1605" height="280" key="GridCell.Tab.0.left" timestamp="1575578392785">
       <screen x="33" y="23" width="1647" height="1027" />
     </state>
-    <state width="1358" height="267" key="GridCell.Tab.0.left/33.23.1647.1027@33.23.1647.1027" timestamp="1575573642607" />
-    <state width="1358" height="267" key="GridCell.Tab.0.right" timestamp="1575573642608">
+    <state width="1605" height="280" key="GridCell.Tab.0.left/33.23.1647.1027@33.23.1647.1027" timestamp="1575578392785" />
+    <state width="1605" height="280" key="GridCell.Tab.0.right" timestamp="1575578392786">
       <screen x="33" y="23" width="1647" height="1027" />
     </state>
-    <state width="1358" height="267" key="GridCell.Tab.0.right/33.23.1647.1027@33.23.1647.1027" timestamp="1575573642608" />
+    <state width="1605" height="280" key="GridCell.Tab.0.right/33.23.1647.1027@33.23.1647.1027" timestamp="1575578392786" />
     <state x="683" y="278" key="SettingsEditor" timestamp="1575570734401">
       <screen x="33" y="23" width="1647" height="1027" />
     </state>
