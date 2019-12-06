@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e75c1fa2-b350-47a2-81ca-401fbe80c88e" name="Default Changelist" comment="" />
+    <list default="true" id="e75c1fa2-b350-47a2-81ca-401fbe80c88e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dao/postgres/book/dao.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handler/handler.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/library.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/service/library/service.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/book.go" beforeDir="false" afterPath="$PROJECT_DIR$/dao/book.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/db.go" beforeDir="false" afterPath="$PROJECT_DIR$/dao/postgres/db.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services/services.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/router.go" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +29,10 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.13.4/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
@@ -31,9 +49,15 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dao/postgres" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
@@ -79,25 +103,34 @@
       <screen x="33" y="23" width="1647" height="1027" />
     </state>
     <state x="320" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/33.23.1647.1027@33.23.1647.1027" timestamp="1575570841979" />
-    <state width="1605" height="280" key="GridCell.Tab.0.bottom" timestamp="1575578392787">
-      <screen x="33" y="23" width="1647" height="1027" />
+    <state x="808" y="407" key="EditFileWatcherDialog" timestamp="1575624565758">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="808" y="407" key="EditFileWatcherDialog/808.-1440.2560.1440/0.0.1680.1050/-1752.-1440.2560.1440@0.0.1680.1050" timestamp="1575624565758" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1575626403202">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1605" height="280" key="GridCell.Tab.0.bottom/33.23.1647.1027@33.23.1647.1027" timestamp="1575578392787" />
-    <state width="1605" height="280" key="GridCell.Tab.0.center" timestamp="1575578392786">
-      <screen x="33" y="23" width="1647" height="1027" />
+    <state width="1638" height="295" key="GridCell.Tab.0.bottom/808.-1440.2560.1440/0.0.1680.1050/-1752.-1440.2560.1440@0.0.1680.1050" timestamp="1575626403202" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1575626403199">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1605" height="280" key="GridCell.Tab.0.center/33.23.1647.1027@33.23.1647.1027" timestamp="1575578392786" />
-    <state width="1605" height="280" key="GridCell.Tab.0.left" timestamp="1575578392785">
-      <screen x="33" y="23" width="1647" height="1027" />
+    <state width="1638" height="295" key="GridCell.Tab.0.center/808.-1440.2560.1440/0.0.1680.1050/-1752.-1440.2560.1440@0.0.1680.1050" timestamp="1575626403199" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1575626403197">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1605" height="280" key="GridCell.Tab.0.left/33.23.1647.1027@33.23.1647.1027" timestamp="1575578392785" />
-    <state width="1605" height="280" key="GridCell.Tab.0.right" timestamp="1575578392786">
-      <screen x="33" y="23" width="1647" height="1027" />
+    <state width="1638" height="295" key="GridCell.Tab.0.left/808.-1440.2560.1440/0.0.1680.1050/-1752.-1440.2560.1440@0.0.1680.1050" timestamp="1575626403197" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1575626403200">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state width="1605" height="280" key="GridCell.Tab.0.right/33.23.1647.1027@33.23.1647.1027" timestamp="1575578392786" />
-    <state x="683" y="278" key="SettingsEditor" timestamp="1575570734401">
-      <screen x="33" y="23" width="1647" height="1027" />
+    <state width="1638" height="295" key="GridCell.Tab.0.right/808.-1440.2560.1440/0.0.1680.1050/-1752.-1440.2560.1440@0.0.1680.1050" timestamp="1575626403200" />
+    <state x="663" y="261" key="SettingsEditor" timestamp="1575624566685">
+      <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="683" y="278" key="SettingsEditor/33.23.1647.1027@33.23.1647.1027" timestamp="1575570734401" />
+    <state x="663" y="261" key="SettingsEditor/808.-1440.2560.1440/0.0.1680.1050/-1752.-1440.2560.1440@0.0.1680.1050" timestamp="1575624566685" />
   </component>
 </project>
